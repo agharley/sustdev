@@ -1,14 +1,17 @@
+---
+---
+
 # Course Creators
 
 This open-access course represents over two decades of collaborative teaching and learning about sustainable development. We—William Clark and Alicia Harley—have worked together at Harvard.
 
 <div style="overflow: auto;">
-  <img src="images/alicia-harley.jpg" alt="Alicia Harley headshot" style="float: right; margin-left: 20px; width: 150px;" />
+  <img src="/images/alicia-harley.jpg" alt="Alicia Harley headshot" style="float: right; margin-left: 20px; width: 150px;" />
   <strong>Alicia Harley</strong> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.
 </div>
 
 <div style="overflow: auto;">
-  <img src="images/bill-clark.jpg" alt="Bill Clark headshot" style="float: right; margin-left: 20px; width: 150px;" />
+  <img src="/images/bill-clark.jpg" alt="Bill Clark headshot" style="float: right; margin-left: 20px; width: 150px;" />
   <strong>William Clark</strong> is the Harvey Brooks Research Professor of International Science, Public Policy and Human Development at Harvard Kennedy School. His research focuses on sustainability science and how knowledge can be harnessed for sustainable development.
 </div>
 
