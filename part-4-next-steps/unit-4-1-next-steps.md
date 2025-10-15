@@ -10,10 +10,17 @@ That said, some generalizations have begun to emerge. Matson et al., in the read
 
 **Mindsets of successful sustainability leaders:**
 
-·  They are empathetic problem-framers, focusing attention on the well-being of people not only in the here and now but also in distant places and future generations;  
-·  They are systems thinkers, embracing the complexity of nature-society interactions and the need for mobilizing multi-disciplinary teams for understanding them;  
-·  They are adaptive strategists, acknowledging the limits of our understanding and the consequent need to embrace surprise and failure;  
-·  They are passionate but patient change-makers, recognizing the need for immediate but persistent advocacy to bring about transformational change at scale.
+- **Empathetic problem-framers:**  
+  Focus on the well-being of people not only in the here and now, but also in distant places and future generations.
+
+- **Systems thinkers:**  
+  Embrace the complexity of nature-society interactions and the need to mobilize multi-disciplinary teams for understanding them.
+
+- **Adaptive strategists:**  
+  Acknowledge the limits of our understanding and the need to embrace surprise and failure.
+
+- **Passionate but patient change-makers:**  
+  Recognize the need for immediate but persistent advocacy to bring about transformational change at scale.
 
 In the “Study Questions” for this Unit, we invite you to consider the applicability of these generalizations to a range of specific situations, and to reflect on other opportunities for leadership in the pursuit of sustainability.
 
