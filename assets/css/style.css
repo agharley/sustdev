@@ -547,6 +547,7 @@ a:hover {
     }
 }
 
+/* Cayman theme page-header styles (overridden below) */
 .page-header {
     color: #fff;
     text-align: center;
@@ -839,11 +840,12 @@ a:hover {
     color: #819198
 }
 
-/* --- Custom NASA Banner Styles (add at the END) --- */
+/* --- Custom NASA Banner Styles (overrides theme) --- */
 .page-header {
-  background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat;
+  background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat !important;
   color: #fff;
   text-shadow: 0 2px 8px #222;
+  text-align: center;
 }
 .page-header .project-name,
 .page-header .project-tagline {
@@ -851,6 +853,6 @@ a:hover {
   text-shadow: 0 2px 8px #222;
 }
 .page-header > div {
-  background: rgba(24, 32, 56, 0.55);
+  background: rgba(24, 32, 56, 0.35);
   padding: 2em 0;
 }
