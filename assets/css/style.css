@@ -376,3 +376,14 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.page-header {
+  color: #fff;
+  text-shadow: 0 2px 8px #222;
+}
+
+.page-header .project-name,
+.page-header .project-tagline {
+  color: #fff;
+  text-shadow: 0 2px 8px #222;
+}
