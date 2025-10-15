@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+  </head>
+  <body>
+    <!-- Top NASA Banner -->
+    <header style="background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat; height: 300px; display: flex; align-items: center; justify-content: center;">
+      <h1 style="color: white; text-shadow: 0 2px 8px #222; font-size: 3em; margin: 0;">
+        {{ site.title }}
+      </h1>
+    </header>
+
+    <!-- Main content area -->
+    <main class="container content" role="main">
+      {{ content }}
+    </main>
+
+    <!-- Footer area (bottom left) -->
+    <footer class="site-footer" style="margin-top: 2em; padding: 1em 0; text-align: left;">
+      <div>
+        <strong>This website is maintained by Alicia G. Harley</strong>
+      </div>
+    </footer>
+
+    <!-- View on GitHub Button - bottom right -->
+    <div style="position: fixed; bottom: 18px; right: 18px; opacity: 0.6; z-index: 100;">
+      <a href="https://github.com/agharley/sustdev" style="background: #eee; color: #333; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 1em;">
+        View on GitHub
+      </a>
+    </div>
+  </body>
+</html>
