@@ -16,20 +16,19 @@
     {% endif %}
   </head>
   <body>
-    <!-- Top NASA Banner -->
-    <header style="background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat; height: 300px; display: flex; align-items: center; justify-content: center;">
-      <h1 style="color: white; text-shadow: 0 2px 8px #222; font-size: 3em; margin: 0;">
-        {{ site.title }}
-      </h1>
-    </header>
+    <!-- Top NASA Banner using Cayman structure -->
+    <div class="page-header" role="banner" style="background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat;">
+      <h1 class="project-name" style="color: white; text-shadow: 0 2px 8px #222;">{{ site.title }}</h1>
+      {% if site.description %}
+      <h2 class="project-tagline" style="color: white; text-shadow: 0 2px 8px #222;">{{ site.description }}</h2>
+      {% endif %}
+    </div>
 
-    <!-- Main content area -->
-    <main class="container content" role="main">
+    <div class="main-content">
       {{ content }}
-    </main>
+    </div>
 
-    <!-- Footer area (bottom left) -->
-    <footer class="site-footer" style="margin-top: 2em; padding: 1em 0; text-align: left;">
+    <footer class="site-footer" style="padding: 2em 0 1em 0; text-align: left;">
       <div>
         <strong>This website is maintained by Alicia G. Harley</strong>
       </div>
