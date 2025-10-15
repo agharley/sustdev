@@ -29,4 +29,4 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 ---
 
 All materials are free to download and share.  
-Contact: [your@email.com](mailto:your@email.com)
+Contact: [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
