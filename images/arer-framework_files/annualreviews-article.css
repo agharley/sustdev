@@ -1,0 +1,115 @@
+.articleabstract .description p{
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.3;
+}
+
+.supplementary-container p {
+	padding-bottom:10px;
+}
+
+.supplementary-container hr {
+	border-top: solid 1px #e5eaea;
+}
+
+.supplementary-container ul.articleMetadata {
+	width:100%;
+}
+
+.supplementary-container .supplementary-item-heading {
+	display:none;
+}
+
+.article-navigation-bar .dropdown-menu > li > a {
+	white-space: normal;
+	padding: 3px 10px;
+}
+
+.article-navigation-bar .dropdown-menu > li > a .jp-small {
+   text-transform: uppercase;
+  font-size: inherit;
+}
+
+.glossary-item {
+	padding-bottom:20px;
+}
+
+.itemFullTextHtml #article-level-0-back .glossary-item .glossary-item-definition {
+        line-height:1.2;
+}
+
+.viewGlossaryPopup .modal-dialog,
+.viewFootnotePopup .modal-dialog {
+        max-width:875px;
+        width:auto;
+}
+
+.xref-acronym a, .xref-fn a {
+        cursor: pointer;
+}
+
+.viewGlossaryPopup .modal-header .close,
+.viewFootnotePopup .modal-header .close{
+        color:#000000;
+        opacity:1;
+        font-size:15px;
+}
+.articlereference-vancouver {
+	list-style: none;
+	padding-left: 0;
+}
+
+.refbody .ref-content {
+    display: inline;
+}
+
+aside .articlereference-vancouver,
+aside #articlereference{
+        padding-left:0!important
+}
+
+.articlereference-vancouver .reference-year {
+	font-weight:bold;
+}
+
+.articlereference-vancouver .reference-year {
+   font-weight:bold;
+}
+.reference-surname,
+.reference-collab,
+.reference-given-names,
+.reference-bold,
+.citationContainerArticleTitle {
+  font-weight: normal;
+}
+.reference-etal {
+  font-weight: normal;
+  font-style: normal;
+}
+
+.viewFootnotePopup .modal-body .fn-label {
+	vertical-align:inherit;
+	font-size:14pt;
+}
+
+.openUrlLink {
+        color:#AA4A44;
+}
+
+h4.supplementary-item-heading-show {
+        padding-bottom:10px;
+}
+h4.supplementary-item-heading-show span.label{
+        color:#000000;
+        font-size:100%;
+}
+
+.description ul li .label {
+	font-size:100%;
+	color:#000000;
+}
+
+.articleSection .author-bio img {
+	max-width:20%;
+	float:left;
+}
