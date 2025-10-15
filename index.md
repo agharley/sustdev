@@ -1,5 +1,4 @@
-# Sustainable Development  
-#A Course Linking Science with Practice
+# Sustainable Development: A Course Linking Science with Practice
 
 
 ---
