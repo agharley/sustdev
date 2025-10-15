@@ -1,7 +1,6 @@
 # Sustainable Development  
-_A Course Linking Science with Practice_
+#A Course Linking Science with Practice
 
-![Earth at night from NASA](images/NASA_earth_at_night.jpg)
 
 ---
 
@@ -9,7 +8,7 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 
 ---
 
-## 🚦 Course Navigation
+##  Course Navigation
 
 **General Information**
 - [About the Course](about.md)
