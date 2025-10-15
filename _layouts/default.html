@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
@@ -16,24 +16,23 @@
     {% endif %}
   </head>
   <body>
-    <!-- Top NASA Banner using Cayman structure -->
-    <div class="page-header" role="banner" style="background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat;">
-      <h1 class="project-name" style="color: white; text-shadow: 0 2px 8px #222;">{{ site.title }}</h1>
-      {% if site.description %}
-      <h2 class="project-tagline" style="color: white; text-shadow: 0 2px 8px #222;">{{ site.description }}</h2>
-      {% endif %}
-    </div>
-
-    <div class="main-content">
+    <!-- NASA Banner as background with Cayman overlay -->
+    <header class="page-header" role="banner" style="background: url('{{ "/images/NASA_earth_at_night.jpg" | relative_url }}') center/cover no-repeat;">
+      <div style="background: rgba(24, 32, 56, 0.55); padding: 2em 0;">
+        <h1 class="project-name">{{ site.title }}</h1>
+        {% if site.description %}
+        <h2 class="project-tagline">{{ site.description }}</h2>
+        {% endif %}
+      </div>
+    </header>
+    <main class="main-content" role="main">
       {{ content }}
-    </div>
-
+    </main>
     <footer class="site-footer" style="padding: 2em 0 1em 0; text-align: left;">
       <div>
         <strong>This website is maintained by Alicia G. Harley</strong>
       </div>
     </footer>
-
     <!-- View on GitHub Button - bottom right -->
     <div style="position: fixed; bottom: 18px; right: 18px; opacity: 0.6; z-index: 100;">
       <a href="https://github.com/agharley/sustdev" style="background: #eee; color: #333; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 1em;">
