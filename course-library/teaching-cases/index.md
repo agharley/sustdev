@@ -10,6 +10,3 @@ Below are downloadable teaching cases for this course. Note that not all cases a
 - [Appalachia Coal Country](case-appalachia.pdf)
 - [London Addendum Case](case-london-addendum.pdf)
 
----
-
-More teaching cases will be added here as they become available.

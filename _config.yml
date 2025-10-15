@@ -1,1 +1,32 @@
-theme: jekyll-theme-cayman
+# Site configuration for Jekyll/GitHub Pages
+# This config does NOT use a remote theme or built-in theme,
+# so your custom layouts (including _layouts/default.html) will be used!
+
+title: SustDev Course Site
+description: Teaching and learning resources for sustainable development
+
+# No theme specified, so custom _layouts/default.html will be used
+# theme: jekyll-theme-cayman
+# remote_theme: pages-themes/cayman@v0.2.0
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude folders/files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# (Optional) Permalinks style
+permalink: pretty
+
+# (Optional) Google Analytics (uncomment and set your ID if needed)
+# google_analytics: UA-XXXXXXXXX-X
+
+# (Optional) Repository info for GitHub Pages
+repository: agharley/sustdev
