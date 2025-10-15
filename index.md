@@ -23,7 +23,7 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 **Course Library**
 - [Teaching Cases](course-library/teaching-cases/)
 - [Student Cases](course-library/student-cases/)
-- [NetLogo Models](course-library/netlogo/)
+- [Learning Games](course-library/learning-games/)
 - [Readings](course-library/readings/)
 
 ---

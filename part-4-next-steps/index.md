@@ -2,4 +2,6 @@
 
 Welcome to the final section! Units and resources will appear here.
 
-<!-- Add unit links here as you create them. -->
+## Units
+
+- [Unit 4.1: Next Steps](unit-4-1-next-steps.md)

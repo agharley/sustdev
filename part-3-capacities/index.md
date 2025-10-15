@@ -1,5 +1,9 @@
 # Part 3: Capacities Needed for the Pursuit of Sustainability
 
-Welcome to this section! Units and resources will appear here.
+This section focuses on the capacities essential for achieving sustainable development.
 
-<!-- Add unit links here as you create them. -->
+---
+
+## Units
+
+- [Unit 3.1: Capacities](unit-3-1-capacities.md)
