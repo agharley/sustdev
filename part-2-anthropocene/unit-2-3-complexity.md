@@ -93,3 +93,8 @@ Trajectories of the Earth System in the Anthropocene. Proceedings of the Nationa
 Barrett, C. B., Travis, A. J., & Dasgupta, P. (2011). On biodiversity conservation and poverty traps. Proceedings of the National Academy of Sciences, 108(34), 13907–13912.  
 [https://doi.org/10.1073/pnas.1011521108](https://doi.org/10.1073/pnas.1011521108)  
 > Reminds us that “tipping points” are not necessarily bad by emphasizing the goal of helping impoverished societies to cross a tipping point beyond which lies an escape from poverty traps into a regime of potentially self-reinforcing growth in well-being.
+
+
+<a href="../course-library/unit-guides/unit-2-3.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">
+Open the Unit 2.3 Reading Guide (PDF)
+</a>
