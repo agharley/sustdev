@@ -11,8 +11,8 @@ This section contains resources, guides, and models for the learning games used 
   - 📝 [Instructor Guide (.pdf)](fishbanks-instructors.pdf)
 
 - **NetLogo Models**
-  - 📝 [NetLogo Guide (.docx)](netlogo-guide-v2.docx)
-  - 📝 [NetLogo Stocks & Flows Guide (.docx)](netlogo-stocks-flows.docx)
+  - 📝 [NetLogo Guide (.pdf)](netlogo-guide-v2.pdf)
+  - 📝 [NetLogo Stocks & Flows Guide (.pdf)](netlogo-stocks-flows.pdf)
   - 🧩 [NetLogo Stock & Flows Model (.nlogo)](Netlogo%20Stock...lows%20v6.nlogo)
   - 🧩 [NetLogo Wealth Model (.nlogo)](Netlogo%20Wealt...ted%20v3b.nlogo)
 
@@ -22,5 +22,4 @@ This section contains resources, guides, and models for the learning games used 
 ---
 
 **Note:**  
-- Files marked 📝 are Microsoft Word documents (`.docx`) and require Word or a compatible viewer.
 - Files marked 🧩 are NetLogo model files (`.nlogo`) and require [NetLogo software](https://ccl.northwestern.edu/netlogo/). See the NetLogo Guide for installation steps.
