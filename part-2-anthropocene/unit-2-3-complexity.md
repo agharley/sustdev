@@ -95,7 +95,6 @@ Barrett, C. B., Travis, A. J., & Dasgupta, P. (2011). On biodiversity conservati
 > Reminds us that “tipping points” are not necessarily bad by emphasizing the goal of helping impoverished societies to cross a tipping point beyond which lies an escape from poverty traps into a regime of potentially self-reinforcing growth in well-being.
 
 
-
-<a href="../course-library/unit-guides/unit-2-3.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">
+<a href="../course-library/unit-guides/unit-2-3.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
 Unit 2.3 Reading Guide (PDF)
 </a>
