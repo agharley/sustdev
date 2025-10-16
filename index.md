@@ -18,7 +18,7 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 - [Part I: Sustainable Development as a Conceptual Challenge](part-1-conceptual-challenge/)
 - [Part II: The Anthropocene as a Complex Adaptive System](part-2-anthropocene/)
 - [Part III: Capacities Needed for the Pursuit of Sustainability](part-3-capacities/)
-- [Part IV: Next Steps](part-4-next-steps/)
+- [Part IV: What's Next](part-4-next-steps/)
 
 **Course Library**
 - [Teaching Cases](course-library/teaching-cases/)
