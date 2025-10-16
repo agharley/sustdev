@@ -1,4 +1,4 @@
-# Unit 4.1 Next Steps: How do leaders catalyze progress in the pursuit of sustainability?
+# Unit 4.1 What's Next: How do leaders catalyze progress in the pursuit of sustainability?
 
 Humans are capable of great change. In the course of our history “we, the peoples”[1] of the earth have moved, unevenly but persistently, towards a world with increased wellbeing for more and more of its inhabitants. We have eradicated diseases, abolished slavery as a legal institution, lengthened lifespans, and codified rights to protect poor and marginalized groups. Taking this progress for granted, however, or expecting it to simply continue, will almost certainly doom us. Moving collectively towards a better world for all takes hard work.
 
