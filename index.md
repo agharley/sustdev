@@ -33,4 +33,4 @@ _All materials are free to download and share._
 © Alicia Harley & William C. Clark, 2025.  
 This material is Open Access and made available under the [Creative Commons Attribution (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/). In addition, the authors grant to the President and Fellows of Harvard College a nonexclusive, irrevocable, worldwide license to exercise any and all rights under copyright relating to this material, reproduced in any medium, provided that the material is not sold for a profit.
 
-For questions, contact Alicia G. Harley: [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
+For questions, contact [Alicia G. Harley](https://harley.scholars.harvard.edu/): [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
