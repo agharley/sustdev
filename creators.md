@@ -20,7 +20,7 @@ This course emerged from extensive collaboration with colleagues and students wh
     <p><a href="https://harley.scholars.harvard.edu/"><strong>Alicia Harley</strong></a> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.</p>
   </div>
   <div class="bio-image">
-    <img src="/images/alicia-harley.jpg" alt="Alicia Harley">
+    <img src="/sustdev/images/alicia-harley.jpg" alt="Alicia Harley">
   </div>
 </div>
 
@@ -29,7 +29,7 @@ This course emerged from extensive collaboration with colleagues and students wh
     <p><a href="https://www.hks.harvard.edu/faculty/william-clark"><strong>William Clark</strong></a> is the Harvey Brooks Research Professor of International Science, Public Policy and Human Development at Harvard Kennedy School. His research focuses on sustainability science and how knowledge can be harnessed for sustainable development.</p>
   </div>
   <div class="bio-image">
-    <img src="/images/bill-clark.jpg" alt="William Clark">
+    <img src="/sustdev/images/bill-clark.jpg" alt="William Clark">
   </div>
 </div>
 
