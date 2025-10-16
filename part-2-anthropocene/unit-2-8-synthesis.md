@@ -4,7 +4,7 @@ In Unit 1.1, we introduced a simple framework for analyzing nature-society syste
 
 
 ![Framework for Research in Sustainability Science](../images/arer-framework.png)
-<p style="font-size:0.95em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
 Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020). Annual Review of Environment and Resources.
 </p>
 
