@@ -4,7 +4,7 @@ The variety of complex interactions between human development and the natural en
 
 ---
 
-![Matson et al. 2016 Sustainability Framework](images/matson-2016.jpg)
+![Matson et al. 2016 Sustainability Framework](/images/matson-2016.jpg)
 <p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
 Figure 1: A Framework for Sustainability Analysis (Matson et al., 2016)
 </p>
