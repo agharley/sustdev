@@ -22,4 +22,4 @@ This section contains resources, guides, and models for the learning games used 
 ---
 
 **Note:**  
-- Files marked 🧩 are NetLogo model files (`.nlogo`) and require [NetLogo software](https://ccl.northwestern.edu/netlogo/). See the NetLogo Guide for installation steps.
+- Files marked 🧩 are NetLogo model files (`.nlogo`) and require [NetLogo software](https://www.netlogoweb.org/). See the NetLogo Guide for installation steps.
