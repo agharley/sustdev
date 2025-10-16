@@ -28,6 +28,11 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 
 ---
 
-_All materials are free to download and share._
+_All materials are free to download and share._  
+**[Download/view on GitHub »](https://github.com/agharley/sustdev)**
 
-Contact: [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
+© Alicia Harley & William C. Clark, 2025.  
+This material is Open Access and made available under the [Creative Commons Attribution (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  
+In addition, the authors grant to the President and Fellows of Harvard College a nonexclusive, irrevocable, worldwide license to exercise any and all rights under copyright relating to this material, reproduced in any medium, provided that the material is not sold for a profit.
+
+For questions, contact Alicia Harley: [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
