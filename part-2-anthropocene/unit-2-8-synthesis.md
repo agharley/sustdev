@@ -4,7 +4,9 @@ In Unit 1.1, we introduced a simple framework for analyzing nature-society syste
 
 
 ![Framework for Research in Sustainability Science](../images/arer-framework.png)
-*Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020). Annual Review of Environment and Resources.**
+<p style="font-size:0.95em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020). Annual Review of Environment and Resources.
+</p>
 
 The framework (Figure 1 above) is developed in detail in reading ‘a’ of this Unit and summarized here. At the center of the figure are the intertwined nature-society interactions[1] we first encountered in Unit 1.1. The framework identifies four key elements involved in those interactions: goals (what people want from sustainable development), resources (the capital assets that may be natural or anthropogenic), actors (communities, firms, states and other entities with agency that strive to use resources to achieve their goals), and institutions (rules, norms, culture, beliefs that shape the behavior of actors). These elements are bound together through relationships of consumption and production, mediated by the relative power of different actor groups to affect one another's actions and beliefs (Unit 2.6). These elements and relationships generate emergent properties including the tendency toward inequality (Unit 2.7)—a pattern that appears across both natural and social systems and shapes how resources, power, and well-being are distributed among actors.
 
