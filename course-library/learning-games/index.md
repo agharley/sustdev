@@ -7,8 +7,8 @@ This section contains resources, guides, and models for the learning games used 
 ## Games & Resources
 
 - **Fishbanks Game**
-  - 📝 [Student Guide (.docx)](fishbanks-students.docx)
-  - 📝 [Instructor Guide (.docx)](fishbanks-instructors.docx)
+  - 📝 [Student Guide (.pdf)](fishbanks-students.pdf)
+  - 📝 [Instructor Guide (.pdf)](fishbanks-instructors.pdf)
 
 - **NetLogo Models**
   - 📝 [NetLogo Guide (.docx)](netlogo-guide-v2.docx)
@@ -17,7 +17,7 @@ This section contains resources, guides, and models for the learning games used 
   - 🧩 [NetLogo Wealth Model (.nlogo)](Netlogo%20Wealt...ted%20v3b.nlogo)
 
 - **Paper Folding & Nonlinearity**
-  - 📝 [Paper Folding & Nonlinearity Guide (.docx)](paper-folding...-linearity.docx)
+  - 📝 [Paper Folding & Nonlinearity Guide (.pdf)](paper-folding...-linearity.pdf)
 
 ---
 
