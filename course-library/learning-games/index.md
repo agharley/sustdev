@@ -17,7 +17,7 @@ This section contains resources, guides, and models for the learning games used 
   - 🧩 [NetLogo Wealth Model (.nlogo)](Netlogo%20Wealt...ted%20v3b.nlogo)
 
 - **Paper Folding & Nonlinearity**
-  - 📝 [Paper Folding & Nonlinearity Guide (.pdf)](paper-folding...-linearity.pdf)
+  - 📝 [Paper Folding & Nonlinearity Guide (.pdf)](paper-folding-non-linearity.pdf)
 
 ---
 
