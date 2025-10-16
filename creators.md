@@ -15,8 +15,55 @@ This course emerged from extensive collaboration with colleagues and students wh
 
 ---
 
-| ![Alicia Harley headshot](/images/alicia-harley.jpg) | [**Alicia Harley**](https://harley.scholars.harvard.edu/) is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy. |
-|:--:|:--|
+<div class="creator-bio">
+  <div class="bio-text">
+    <p><a href="https://harley.scholars.harvard.edu/"><strong>Alicia Harley</strong></a> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.</p>
+  </div>
+  <div class="bio-image">
+    <img src="/images/alicia-harley.jpg" alt="Alicia Harley">
+  </div>
+</div>
 
-| ![Bill Clark headshot](/images/bill-clark.jpg) | [**William Clark**](https://www.hks.harvard.edu/faculty/william-clark) is the Harvey Brooks Research Professor of International Science, Public Policy and Human Development at Harvard Kennedy School. His research focuses on sustainability science and how knowledge can be harnessed for sustainable development. |
-|:--:|:--|
+<div class="creator-bio">
+  <div class="bio-text">
+    <p><a href="https://www.hks.harvard.edu/faculty/william-clark"><strong>William Clark</strong></a> is the Harvey Brooks Research Professor of International Science, Public Policy and Human Development at Harvard Kennedy School. His research focuses on sustainability science and how knowledge can be harnessed for sustainable development.</p>
+  </div>
+  <div class="bio-image">
+    <img src="/images/bill-clark.jpg" alt="William Clark">
+  </div>
+</div>
+
+<style>
+.creator-bio {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.bio-text {
+  flex: 1;
+}
+
+.bio-image {
+  flex: 0 0 200px;
+}
+
+.bio-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  .creator-bio {
+    flex-direction: column;
+  }
+  
+  .bio-image {
+    flex: 0 0 auto;
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+</style>
