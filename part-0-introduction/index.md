@@ -1,6 +1,6 @@
-# Part 0: Introduction
+#  Introduction
 
-This section provides a brief overview of the course and introduces key ideas in sustainable development.
+[Text here to describe intro]
 
 ---
 

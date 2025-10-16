@@ -1,6 +1,6 @@
-# Part 1: Sustainable Development as a Conceptual Challenge
+# Part I: Sustainable Development as a Conceptual Challenge
 
-This section explores the major conceptual challenges in defining and pursuing sustainable development.
+Part I of this course explores the major conceptual challenges in defining and pursuing sustainable development. 
 
 ---
 

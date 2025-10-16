@@ -1,7 +1,6 @@
-# Part 2: The Anthropocene as a Complex Adaptive System
+# Part II: The Anthropocene as a Complex Adaptive System
 
-Welcome to this section! Units and resources will appear here as they are created.
-
+[Text about part II]
 ---
 
 ## Units
