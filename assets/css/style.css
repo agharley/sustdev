@@ -1050,3 +1050,17 @@ a:hover {
     height: 45px;
   }
 }
+/* Active page highlighting - orange instead of green */
+.section-content a.active {
+  background: #fff3e0;
+  color: #e65100;
+  font-weight: 600;
+  border-left: 3px solid #e65100;
+}
+
+/* Home link styling */
+.home-link {
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 12px 20px !important;
+}
