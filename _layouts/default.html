@@ -16,22 +16,170 @@
     {% endif %}
   </head>
   <body>
-    <!-- NASA Banner as background with Cayman overlay -->
+    <!-- Hamburger Menu Button -->
+    <button id="menu-toggle" class="hamburger-btn" aria-label="Toggle navigation menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <!-- Sidebar Navigation -->
+    <nav id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <h2>Course Navigation</h2>
+        <button id="sidebar-close" class="close-btn" aria-label="Close menu">&times;</button>
+      </div>
+      
+      <div class="sidebar-content">
+        <!-- General Information (Collapsible) -->
+        <div class="nav-section collapsible">
+          <button class="section-header">
+            <span>General Information</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="section-content">
+            <a href="/sustdev/about">About the Course</a>
+            <a href="/sustdev/creators">Course Creators</a>
+          </div>
+        </div>
+
+        <!-- Part 0 -->
+        <div class="nav-section">
+          <div class="section-header-static">Part 0: Introduction</div>
+          <div class="section-content show">
+            <a href="/sustdev/part-0-introduction/">Overview</a>
+          </div>
+        </div>
+
+        <!-- Part I -->
+        <div class="nav-section">
+          <div class="section-header-static">Part I: Sustainable Development as a Conceptual Challenge</div>
+          <div class="section-content show">
+            <a href="/sustdev/part-1-conceptual-challenge/">Overview</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-1-framework">Unit 1.1: Framework</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-2-goals">Unit 1.2: Goals</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-3-natural-resources">Unit 1.3: Natural Resources</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources">Unit 1.4: Anthropogenic Resources</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-5-assessment">Unit 1.5: Integrated Assessment</a>
+          </div>
+        </div>
+
+        <!-- Part II -->
+        <div class="nav-section">
+          <div class="section-header-static">Part II: The Anthropocene as a Complex Adaptive System</div>
+          <div class="section-content show">
+            <a href="/sustdev/part-2-anthropocene/">Overview</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-1-stocks-flows">Unit 2.1: Stocks & Flows</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-2-feedback">Unit 2.2: Feedback Loops</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-3-nonlinearities">Unit 2.3: Nonlinearities & Tipping Points</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-4-horizontal">Unit 2.4: Horizontal Connections</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-5-vertical">Unit 2.5: Vertical Connections</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-6-actors-institutions-power">Unit 2.6: Actors, Institutions & Power</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-7-inequality">Unit 2.7: Inequality</a>
+            <a href="/sustdev/part-2-anthropocene/unit-2-8-synthesis">Unit 2.8: Synthesis</a>
+          </div>
+        </div>
+
+        <!-- Part III -->
+        <div class="nav-section">
+          <div class="section-header-static">Part III: Capacities Needed for the Pursuit of Sustainability</div>
+          <div class="section-content show">
+            <a href="/sustdev/part-3-capacities/">Overview</a>
+            <a href="/sustdev/part-3-capacities/unit-3-1-intervention">Unit 3.1: Capacity to Intervene</a>
+            <a href="/sustdev/part-3-capacities/unit-3-2-equity">Unit 3.2: Capacity to Promote Equity</a>
+            <a href="/sustdev/part-3-capacities/unit-3-3-monitoring">Unit 3.3: Capacity for Monitoring & Reflection</a>
+          </div>
+        </div>
+
+        <!-- Part IV -->
+        <div class="nav-section">
+          <div class="section-header-static">Part IV: What's Next</div>
+          <div class="section-content show">
+            <a href="/sustdev/part-4-next-steps/">Overview</a>
+          </div>
+        </div>
+
+        <!-- Course Library (Collapsible) -->
+        <div class="nav-section collapsible">
+          <button class="section-header">
+            <span>Course Library</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="section-content">
+            <a href="/sustdev/course-library/teaching-cases/">Teaching Cases</a>
+            <a href="/sustdev/course-library/learning-games/">Learning Games</a>
+            <a href="/sustdev/course-library/readings/">Readings</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Overlay (darkens background when menu is open) -->
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <!-- NASA Banner -->
     <header class="page-header" role="banner">
       <div>
         <h1 class="project-name">Sustainable Development:</h1>
         <h2 class="project-tagline">A course linking science with practice</h2>
       </div>
     </header>
+
     <main class="main-content" role="main">
       {{ content }}
     </main>
-    <!-- View on GitHub Button - bottom right -->
+
+    <!-- View on GitHub Button -->
     <div style="position: fixed; bottom: 18px; right: 18px; opacity: 0.6; z-index: 100;">
       <a href="https://github.com/agharley/sustdev" style="background: #eee; color: #333; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 1em;">
         View on GitHub
       </a>
     </div>
+
+    <!-- Navigation JavaScript -->
+    <script>
+      // Toggle sidebar open/close
+      const menuToggle = document.getElementById('menu-toggle');
+      const sidebar = document.getElementById('sidebar');
+      const sidebarClose = document.getElementById('sidebar-close');
+      const overlay = document.getElementById('sidebar-overlay');
+
+      function openSidebar() {
+        sidebar.classList.add('open');
+        overlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeSidebar() {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('show');
+        document.body.style.overflow = '';
+      }
+
+      menuToggle.addEventListener('click', openSidebar);
+      sidebarClose.addEventListener('click', closeSidebar);
+      overlay.addEventListener('click', closeSidebar);
+
+      // Toggle collapsible sections
+      document.querySelectorAll('.nav-section.collapsible .section-header').forEach(header => {
+        header.addEventListener('click', function() {
+          const section = this.parentElement;
+          const content = section.querySelector('.section-content');
+          const icon = this.querySelector('.toggle-icon');
+          
+          content.classList.toggle('show');
+          icon.textContent = content.classList.contains('show') ? '−' : '+';
+        });
+      });
+
+      // Highlight current page in navigation
+      const currentPath = window.location.pathname;
+      document.querySelectorAll('.sidebar a').forEach(link => {
+        if (link.getAttribute('href') === currentPath || 
+            currentPath.includes(link.getAttribute('href'))) {
+          link.classList.add('active');
+        }
+      });
+    </script>
   </body>
 </html>
-<!-- rebuild -->
