@@ -35,7 +35,7 @@
         <!-- Home Link -->
         <div class="nav-section">
           <div class="section-content show">
-            <a href="/sustdev/" class="home-link">🏠 Home</a>
+            <a href="/sustdev/" class="home-link">🌍 Home</a>
           </div>
         </div>
 
@@ -70,7 +70,7 @@
             <a href="/sustdev/part-1-conceptual-challenge/unit-1-2-goals">Unit 1.2: Goals</a>
             <a href="/sustdev/part-1-conceptual-challenge/unit-1-3-natural-resources">Unit 1.3: Natural Resources</a>
             <a href="/sustdev/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources">Unit 1.4: Anthropogenic Resources</a>
-            <a href="/sustdev/part-1-conceptual-challenge/unit-1-5-assessment">Unit 1.5: Integrated Assessment</a>
+            <a href="/sustdev/part-1-conceptual-challenge/unit-1-5-integrated-assessment">Unit 1.5: Integrated Assessment</a>
           </div>
         </div>
 
@@ -110,6 +110,7 @@
           <div class="section-header-static">Part IV: What's Next</div>
           <div class="section-content show">
             <a href="/sustdev/part-4-next-steps/">Overview</a>
+            <a href="/sustdev/part-4-next-steps/unit-4-1-next-steps">Unit 4.1: What's Next</a>
           </div>
         </div>
 
@@ -148,45 +149,4 @@
       // Toggle sidebar open/close
       const menuToggle = document.getElementById('menu-toggle');
       const sidebar = document.getElementById('sidebar');
-      const sidebarClose = document.getElementById('sidebar-close');
-      const overlay = document.getElementById('sidebar-overlay');
-
-      function openSidebar() {
-        sidebar.classList.add('open');
-        overlay.classList.add('show');
-        document.body.style.overflow = 'hidden';
-      }
-
-      function closeSidebar() {
-        sidebar.classList.remove('open');
-        overlay.classList.remove('show');
-        document.body.style.overflow = '';
-      }
-
-      menuToggle.addEventListener('click', openSidebar);
-      sidebarClose.addEventListener('click', closeSidebar);
-      overlay.addEventListener('click', closeSidebar);
-
-      // Toggle collapsible sections
-      document.querySelectorAll('.nav-section.collapsible .section-header').forEach(header => {
-        header.addEventListener('click', function() {
-          const section = this.parentElement;
-          const content = section.querySelector('.section-content');
-          const icon = this.querySelector('.toggle-icon');
-          
-          content.classList.toggle('show');
-          icon.textContent = content.classList.contains('show') ? '−' : '+';
-        });
-      });
-
-      // Highlight current page in navigation
-      const currentPath = window.location.pathname;
-      document.querySelectorAll('.sidebar a').forEach(link => {
-        if (link.getAttribute('href') === currentPath || 
-            currentPath.includes(link.getAttribute('href'))) {
-          link.classList.add('active');
-        }
-      });
-    </script>
-  </body>
-</html>
+      const sidebarClose = document.g
