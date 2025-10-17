@@ -842,7 +842,7 @@ a:hover {
 
 /* --- Custom NASA Banner Styles (overrides theme) --- */
 .page-header {
-  background: url('/images/NASA_earth_at_night.jpg') center/cover no-repeat !important;
+  background: url('/sustdev/images/NASA_earth_at_night.jpg') center/cover no-repeat !important;
   color: #fff;
   text-shadow: 0 2px 8px #222;
   text-align: center;
