@@ -1,6 +1,7 @@
 # Part II: The Anthropocene as a Complex Adaptive System
 
-[Text about part II]
+Part II of the course explores the dynamics of the conceptual framework introduced in Part I.  It does so by portraying nature-society interactions as a complex adaptive system, replete with far from equilibrium behavior, nonlinearity, tipping points, hierarchical self-organization and path-dependence. Special attention is given to the roles of innovation in driving system change, of processes connecting multiple local places within that system into a global whole, of human actors and institutions in shaping the system’s dynamics, and to the ubiquitous inequalities that characterize those dynamics.
+
 ---
 
 ## Units

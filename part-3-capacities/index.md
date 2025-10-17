@@ -1,6 +1,6 @@
 # Part III: Capacities Needed for the Pursuit of Sustainability
 
-Part III focuses on the capacities needed for achieving sustainable development. [ADD MORE TEXT]
+Part III of the course turns to the capacities required to “get stuff done” in modifying the complex adaptive system of nature-society interactions discussed in Part II so that its dynamics better mobilize resources to achieve the goals as discussed in Part I.  We focus on: i) the capacity to promote equity; ii) the capacity to measure progress; iii) the capacity to adapt to shocks and surprises; iv) the capacity to govern cooperatively; v) the capacity to link knowledge with action for sustainable development; and vi) the capacity to transform unsustainable development pathways to sustainable ones.   
 
 ---
 

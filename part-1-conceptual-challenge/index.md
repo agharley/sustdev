@@ -1,6 +1,7 @@
 # Part I: Sustainable Development as a Conceptual Challenge
 
-Part I of this course explores the major conceptual challenges in defining and pursuing sustainable development. 
+Part I of the course explores the major conceptual challenges in defining and pursuing sustainable development. We begin by introducing the framework used in the course for organizing the insights that scientific research on nature-society interactions is bringing to bear on sustainable development. Central to this framework are the goals that society negotiates for the pursuit of sustainability, the resources
+– natural and anthropogenic – that people tap to achieve those goals, and the systems of consumption and production by which goals and resources are connected. 
 
 ---
 
