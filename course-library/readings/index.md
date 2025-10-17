@@ -9,7 +9,7 @@ Most of the readings assigned or recommended in the syllabus for this course are
 
 ---
 
-**Building Adaptive Capacity for Sustainability:** [capacity-adapt.pdf](capacity-adapt.pdf)
+**Harley, A. G., & Clark, W. C. (2025). Building Capacity to Adapt Development Pathways to Protect Human Well-being in the Face of Shocks: Lessons from scholarship and practice (Nos. 25–02; Sustainability Science Program Working Paper, p. 20). Harvard Kennedy School of Government.** [capacity-adapt.pdf](capacity-adapt.pdf)
 
 **Equity and Sustainability: Concepts and Approaches:** [capacity-equity.pdf](capacity-equity.pdf)
 
