@@ -1,6 +1,6 @@
 # Learning Games Library
 
-This section contains resources, guides, and models for the learning games used in this course. Click on the links below to access instructor and student guides, NetLogo models, and supporting documents.
+Learning-by-doing is a core component of our strategy for this course.   This section contains resources, guides, and models we deploy in the course to facilitate such learning by doing. Click on the links below to access instructor and student guides, NetLogo models, and supporting documents.
 
 ---
 
